@@ -12,4 +12,4 @@
 **project-setup**  
 Starter code for students to download.
 
-**create-animator**
+**01-create-animator**
