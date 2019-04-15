@@ -1,4 +1,4 @@
-# Unity-Examples-2D-Hero-Sprite
+# Unity Examples: 2D Hero Sprite
 
 Examples of 2D spites:
 
