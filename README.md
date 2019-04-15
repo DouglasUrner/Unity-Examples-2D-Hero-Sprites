@@ -1,5 +1,12 @@
 # Unity-Examples-2D-Hero-Sprite
 
+Examples of 2D spites:
+
+* Simple "omni-directional" sprite.
+* Changing the sprite to match of travel.
+* Animated sprite that matches the direction of travel.
+* Animated sprite with tool or weapon.
+
 ## Steps
 
 1. Clone repository and checkout the **project-setup** branch.
